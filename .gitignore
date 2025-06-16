@@ -1,0 +1,7 @@
+# testing files
+/cypress/reports
+/cypress/screenshots
+/cypress/videos
+
+# dependencies
+/node_modules
